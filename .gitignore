@@ -2,4 +2,8 @@
 .classpath
 target/*
 .settings/
-/target/*
+domain/target/*
+repository/target/*
+service/target/*
+console/target/*
+
